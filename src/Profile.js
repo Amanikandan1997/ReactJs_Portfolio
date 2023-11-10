@@ -27,7 +27,7 @@ function Profile() {
             </div>
           </div>
           <h2 className="profile__name">Manikandan</h2>
-          <h3 className="profile_profession">Frontend Developer</h3>
+          <h3 className="profile_profession">Frontend Developer & Graphic Designer</h3>
           <ul className="profile__social">
             <a href="https://instagram.com/manikandan_uki?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" className="profile__social-link">
               <i className="ri-instagram-fill" />
