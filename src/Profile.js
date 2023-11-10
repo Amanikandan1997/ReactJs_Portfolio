@@ -3,6 +3,7 @@ import "./profile.css"
 import DP from "./assests/perfil.png"
 import Project from './Project'
 import Skills from "./Skills"
+import manicv from "./assests/assets/pdf/mani cv.pdf"
 function Profile() {
   return (
   
@@ -66,11 +67,11 @@ function Profile() {
         </div>
         <div className="profile__buttons">
           {/* Insert your CV */}
-          <a download href="assets/pdf/mani cv.pdf" className="button">
+          <a download href={manicv} className="button">
             Download CV <i className="ri-download-line" />
           </a>
           <div className="profile__buttons-small">
-            {/* Insert a real number plus country code */}
+           
             <a href="https://instagram.com/manikandan_uki?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank" className="button button__small button__gray">
               <i className="ri-instagram-fill" />
             </a>
