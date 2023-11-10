@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.a2202685.css",
-    "main.js": "./static/js/main.be0e433d.js",
+    "main.js": "./static/js/main.fa1daa60.js",
     "static/media/kit.jpg": "./static/media/kit.805d26cfbce15fd96a5a.jpg",
     "static/media/mtm honey 1.jpg": "./static/media/mtm honey 1.d0cf4734f44fe5f4657f.jpg",
     "static/media/mtm honey 2.jpg": "./static/media/mtm honey 2.03d1fd6ad74f3d59489c.jpg",
@@ -34,10 +34,10 @@
     "static/media/project4.jfif": "./static/media/project4.d01b56e595e7524ccc30.jfif",
     "index.html": "./index.html",
     "main.a2202685.css.map": "./static/css/main.a2202685.css.map",
-    "main.be0e433d.js.map": "./static/js/main.be0e433d.js.map"
+    "main.fa1daa60.js.map": "./static/js/main.fa1daa60.js.map"
   },
   "entrypoints": [
     "static/css/main.a2202685.css",
-    "static/js/main.be0e433d.js"
+    "static/js/main.fa1daa60.js"
   ]
 }
