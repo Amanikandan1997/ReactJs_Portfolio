@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.a2202685.css",
-    "main.js": "./static/js/main.fa1daa60.js",
+    "main.js": "./static/js/main.d8cc1643.js",
     "static/media/kit.jpg": "./static/media/kit.805d26cfbce15fd96a5a.jpg",
     "static/media/mtm honey 1.jpg": "./static/media/mtm honey 1.d0cf4734f44fe5f4657f.jpg",
     "static/media/mtm honey 2.jpg": "./static/media/mtm honey 2.03d1fd6ad74f3d59489c.jpg",
@@ -28,16 +28,17 @@
     "static/media/perfil.png": "./static/media/perfil.cf3c574335dd6f9dd291.png",
     "static/media/ecommerce.png": "./static/media/ecommerce.5fcd2078bc3440e88a77.png",
     "static/media/vj.jpeg": "./static/media/vj.04671f9a80f7bc3a6e1e.jpeg",
+    "static/media/mani cv.pdf": "./static/media/mani cv.5b6953dd82755cffcfb5.pdf",
     "static/media/kite j.png": "./static/media/kite j.a37003a56be0ebde19e1.png",
     "static/media/jobdas.png": "./static/media/jobdas.44da84de891a50dd81fa.png",
     "static/media/calendar.jpeg": "./static/media/calendar.511d54daecf3e615da91.jpeg",
     "static/media/project4.jfif": "./static/media/project4.d01b56e595e7524ccc30.jfif",
     "index.html": "./index.html",
     "main.a2202685.css.map": "./static/css/main.a2202685.css.map",
-    "main.fa1daa60.js.map": "./static/js/main.fa1daa60.js.map"
+    "main.d8cc1643.js.map": "./static/js/main.d8cc1643.js.map"
   },
   "entrypoints": [
     "static/css/main.a2202685.css",
-    "static/js/main.fa1daa60.js"
+    "static/js/main.d8cc1643.js"
   ]
 }
