@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a2202685.css",
+    "main.js": "./static/js/main.be0e433d.js",
+    "static/media/kit.jpg": "./static/media/kit.805d26cfbce15fd96a5a.jpg",
+    "static/media/mtm honey 1.jpg": "./static/media/mtm honey 1.d0cf4734f44fe5f4657f.jpg",
+    "static/media/mtm honey 2.jpg": "./static/media/mtm honey 2.03d1fd6ad74f3d59489c.jpg",
+    "static/media/work4.jpg": "./static/media/work4.1bb42989595dca8fcccf.jpg",
+    "static/media/sb2.jpg": "./static/media/sb2.2a7bc22f821cac79f34b.jpg",
+    "static/media/ludo 1st design.jpg": "./static/media/ludo 1st design.932c9f93d1fa705308a2.jpg",
+    "static/media/sb1.jpg": "./static/media/sb1.3799db0ca10b905812e8.jpg",
+    "static/media/project3.jpg": "./static/media/project3.c57ff9e3d89dc090b139.jpg",
+    "static/media/id.jpg": "./static/media/id.7adaa4460282e8e30163.jpg",
+    "static/media/stage copy.jpg": "./static/media/stage copy.705f7c8115c346c73859.jpg",
+    "static/media/work13 (2).jpg": "./static/media/work13 (2).3a98990fa84226b3f7d6.jpg",
+    "static/media/kite python.jpg": "./static/media/kite python.6edae943c6fcf608b8b5.jpg",
+    "static/media/aasai candy.jpg": "./static/media/aasai candy.0c8910a30fca9ef1739f.jpg",
+    "static/media/project1.jpg": "./static/media/project1.a7e5925201876a6114f8.jpg",
+    "static/media/KITE BROUCHER.jpg": "./static/media/KITE BROUCHER.6826d90dbf5dde15fa0d.jpg",
+    "static/media/project2.jpg": "./static/media/project2.9c8557a551fd55f5daa4.jpg",
+    "static/media/kbm.png": "./static/media/kbm.0638f74ff4c0570fc41e.png",
+    "static/media/surabhi.png": "./static/media/surabhi.85100e9132865bef7ee3.png",
+    "static/media/work13 (1).jpg": "./static/media/work13 (1).289de4e9a67bee4f8bda.jpg",
+    "static/media/trans.png": "./static/media/trans.ab0da1927891047b28df.png",
+    "static/media/mk logo replace.jpg": "./static/media/mk logo replace.0fadd7ef74423f1b9bf2.jpg",
+    "static/media/dsr.png": "./static/media/dsr.d486088ebf8c44eaaa29.png",
+    "static/media/kk.jpeg": "./static/media/kk.0c2fcc699f360973f70b.jpeg",
+    "static/media/perfil.png": "./static/media/perfil.cf3c574335dd6f9dd291.png",
+    "static/media/ecommerce.png": "./static/media/ecommerce.5fcd2078bc3440e88a77.png",
+    "static/media/vj.jpeg": "./static/media/vj.04671f9a80f7bc3a6e1e.jpeg",
+    "static/media/kite j.png": "./static/media/kite j.a37003a56be0ebde19e1.png",
+    "static/media/jobdas.png": "./static/media/jobdas.44da84de891a50dd81fa.png",
+    "static/media/calendar.jpeg": "./static/media/calendar.511d54daecf3e615da91.jpeg",
+    "static/media/project4.jfif": "./static/media/project4.d01b56e595e7524ccc30.jfif",
+    "index.html": "./index.html",
+    "main.a2202685.css.map": "./static/css/main.a2202685.css.map",
+    "main.be0e433d.js.map": "./static/js/main.be0e433d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2202685.css",
+    "static/js/main.be0e433d.js"
+  ]
+}
