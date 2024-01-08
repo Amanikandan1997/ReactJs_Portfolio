@@ -28,6 +28,8 @@ import mklogo from "./assests/mk logo replace.jpg"
 import sb1 from "./assests/sb1.jpg"
 import sb2 from "./assests/sb2.jpg"
 import job from "./assests/jobdas.png"
+import sachin1 from "./assests/sachin.jpg"
+import sachin2 from "./assests/sachin 2.jpg"
 import Navbar from './Navbar'
 import  Calendar  from './assests/calendar.jpeg'
 function Project() {
@@ -169,6 +171,30 @@ function Project() {
                   <span className="projects__subtitle">Design</span>
                   <h3 className="projects__title">KanniyaKumari Creative Design</h3>
                   <a href="https://www.instagram.com/p/CxkZvt5r3kS/?igshid=NjIwNzIyMDk2Mg==" target="_blank" className="projects__button button button__small">
+                    <i className="ri-link" />
+                  </a>
+                </div>
+              </div>
+            </article>
+      <article className="projects__card">
+              <img src={sachin1} alt="" className="projects__img" />
+              <div className="projects__modal">
+                <div>
+                  <span className="projects__subtitle">Design</span>
+                  <h3 className="projects__title">Sunfeast Sachin & Chandramuki card re 2023 Dsign</h3>
+                  <a href="https://www.instagram.com/p/Cu9cYePNYX7/?igshid=NjIwNzIyMDk2Mg==" target="_blank" className="projects__button button button__small">
+                    <i className="ri-link" />
+                  </a>
+                </div>
+              </div>
+            </article>
+     <article className="projects__card">
+              <img src={sachin2} alt="" className="projects__img" />
+              <div className="projects__modal">
+                <div>
+                  <span className="projects__subtitle">Design</span>
+                  <h3 className="projects__title">Sunfeast Sachin & Chandramuki card re 2023 Dsign</h3>
+                  <a href="https://www.instagram.com/p/Cu9cYePNYX7/?igshid=NjIwNzIyMDk2Mg==" target="_blank" className="projects__button button button__small">
                     <i className="ri-link" />
                   </a>
                 </div>
