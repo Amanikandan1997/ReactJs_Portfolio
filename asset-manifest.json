@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.a2202685.css",
-    "main.js": "./static/js/main.d8cc1643.js",
+    "main.js": "./static/js/main.f4983786.js",
     "static/media/kit.jpg": "./static/media/kit.805d26cfbce15fd96a5a.jpg",
     "static/media/mtm honey 1.jpg": "./static/media/mtm honey 1.d0cf4734f44fe5f4657f.jpg",
     "static/media/mtm honey 2.jpg": "./static/media/mtm honey 2.03d1fd6ad74f3d59489c.jpg",
@@ -12,10 +12,12 @@
     "static/media/project3.jpg": "./static/media/project3.c57ff9e3d89dc090b139.jpg",
     "static/media/id.jpg": "./static/media/id.7adaa4460282e8e30163.jpg",
     "static/media/stage copy.jpg": "./static/media/stage copy.705f7c8115c346c73859.jpg",
+    "static/media/sachin.jpg": "./static/media/sachin.97a3fc0e375d00098b6d.jpg",
     "static/media/work13 (2).jpg": "./static/media/work13 (2).3a98990fa84226b3f7d6.jpg",
     "static/media/kite python.jpg": "./static/media/kite python.6edae943c6fcf608b8b5.jpg",
     "static/media/aasai candy.jpg": "./static/media/aasai candy.0c8910a30fca9ef1739f.jpg",
     "static/media/project1.jpg": "./static/media/project1.a7e5925201876a6114f8.jpg",
+    "static/media/sachin 2.jpg": "./static/media/sachin 2.579afdc165dc17bc5c71.jpg",
     "static/media/KITE BROUCHER.jpg": "./static/media/KITE BROUCHER.6826d90dbf5dde15fa0d.jpg",
     "static/media/project2.jpg": "./static/media/project2.9c8557a551fd55f5daa4.jpg",
     "static/media/kbm.png": "./static/media/kbm.0638f74ff4c0570fc41e.png",
@@ -35,10 +37,10 @@
     "static/media/project4.jfif": "./static/media/project4.d01b56e595e7524ccc30.jfif",
     "index.html": "./index.html",
     "main.a2202685.css.map": "./static/css/main.a2202685.css.map",
-    "main.d8cc1643.js.map": "./static/js/main.d8cc1643.js.map"
+    "main.f4983786.js.map": "./static/js/main.f4983786.js.map"
   },
   "entrypoints": [
     "static/css/main.a2202685.css",
-    "static/js/main.d8cc1643.js"
+    "static/js/main.f4983786.js"
   ]
 }
