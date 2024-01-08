@@ -46,7 +46,7 @@ function Profile() {
             <i class="ri-briefcase-4-fill"></i>
             </a>
        <a href="https://www.youtube.com/channel/UCnTca3JDVBv0x4ebm4-ehjg" className="profile__social-link">
-            <i class=""ri-youtube-fill""></i>
+            <i class="ri-youtube-fill"></i>
             </a>
           </ul>
         </div>
@@ -108,6 +108,7 @@ function Profile() {
     // 
     {/*=============== MAIN JS ===============*/}
  </div>
+ 
   )
 }
 
