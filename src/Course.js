@@ -8,7 +8,7 @@ function Course() {
         {/*=============== FILTERS TABS ===============*/}
         <ul className="filters__content">
           <button className="filters__button filter-tab-active" data-target="#skills">
-            Course
+            Education
           </button>
           
         </ul>
