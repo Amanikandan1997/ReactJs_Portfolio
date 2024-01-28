@@ -349,7 +349,7 @@ body.dark-mode {
   display: flex;
   justify-content: center;
   column-gap: 3rem;
-  background-color: rgb(234, 234, 234);
+  background-color: rgb(216, 213, 213);
   padding: 2rem;
   margin-top: -1.5rem;
 }

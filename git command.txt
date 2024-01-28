@@ -8,6 +8,9 @@ git remote add origin https://github.com/Amanikandan1997/ReactJs_Portfolio.git
 git push -u origin main
 or
 git push -f origin main
+
+then deploy
+npm run deploy
 …or push an existing repository from the command line
 git remote add origin https://github.com/Amanikandan1997/ReactJs_Portfolio.git
 git branch -M main

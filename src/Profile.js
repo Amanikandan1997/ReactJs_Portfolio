@@ -5,6 +5,7 @@ import Project from './Project'
 import Skills from "./Skills"
 import manicv from "./assests/assets/pdf/mani cv.pdf"
 import DarkModeToggleBtn from './DarkModeToggleBtn'
+import ScrollToTop from "react-scroll-to-top";
 import Course from "./Course"
 
 function Profile() {
@@ -111,8 +112,9 @@ function Profile() {
         © <a href="https://github.com/Amanikandan1997">Manikandan Arunachalam @ {new Date().getFullYear()} </a> <br /> All rigths reserved.
       </span>
     </footer>
+    <ScrollToTop smooth top={1000} />
     {/*=============== SCROLLREVEAL ===============*/}
-    // 
+  
     {/*=============== MAIN JS ===============*/}
  </div>
  
