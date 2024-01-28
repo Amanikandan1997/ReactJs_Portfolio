@@ -33,13 +33,13 @@ import sachin2 from "./assests/sachin 2.jpg"
 import book1 from "./assests/b1.jpg"
 import book2 from "./assests/b2.jpg"
 import Navbar from './Navbar'
-import Course from "./Course"
+
 import  Calendar  from './assests/calendar.jpeg'
 function Project() {
   return (
     
     <>
- <Course/>
+
      <ul className="filters__content"> <button className="filters__button filter-tab-active" data-target="#skills">
             Projects
           </button></ul>
