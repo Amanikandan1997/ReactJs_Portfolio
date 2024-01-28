@@ -60,7 +60,7 @@ body {
 }
 
 h1, h2, h3 {
-  color: var(--title-color);
+  color: blue;
   font-weight: 600;
 }
 
@@ -76,7 +76,17 @@ img {
   max-width: 100%;
   height: auto;
 }
-
+/*=============== Togglebutton css ===============*/
+body.light-mode {
+  background-color: #eef1f1;
+  color: #333;
+  transition: background-color 0.3s ease;
+}
+body.dark-mode {
+  background-color: #17032e;
+  color: #ffffff;
+  
+}
 /*=============== THEME ===============*/
 
 
@@ -146,12 +156,14 @@ img {
 
 .profile__name {
   font-size: var(--h2-font-size);
+  color:blue;
 }
 
 .profile__profession {
   font-size: var(--smaller-font-size);
   font-weight: 500;
-  color: var(--text-color);
+  
+  color: rgb(0, 225, 255);
   margin-bottom: 1rem;
 }
 
@@ -163,12 +175,12 @@ img {
 
 .profile__social-link {
   font-size: 1.25rem;
-  color: var(--title-color);
+  color: rgb(0, 162, 255);
   transition: .3s;
 }
 
 .profile__social-link:hover {
-  color: var(--first-color);
+  color: orangered;
 }
 
 .profile__info {
@@ -366,6 +378,7 @@ img {
 
 .skills__level {
   font-size: var(--smaller-font-size);
+  color: #1a1919;
 }
 
 /* Hide and show projects & skills */

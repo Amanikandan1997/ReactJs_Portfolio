@@ -4,7 +4,12 @@ import DP from "./assests/perfil.png"
 import Project from './Project'
 import Skills from "./Skills"
 import manicv from "./assests/assets/pdf/mani cv.pdf"
+import DarkModeToggleBtn from './DarkModeToggleBtn'
+import Course from "./Course"
+
 function Profile() {
+ 
+
   return (
   
     <div>
@@ -25,8 +30,9 @@ function Profile() {
             <div className="profile__perfil">
               {/* Insert your image, according to the example size of the portfolio */}
               <img src={DP} alt="" />
-            </div>
-          </div>
+            </div><br/>
+    <DarkModeToggleBtn/>
+          </div><br/><br/>
           <h2 className="profile__name">Manikandan A</h2>
           <h3 className="profile_profession">Software Developer & Graphic Designer</h3>
           <ul className="profile__social">
@@ -89,6 +95,7 @@ function Profile() {
     </header>
     {/*=============== MAIN ===============*/}
    <Skills/>
+   <Course/>
     <Project/> 
         {/*=============== FILTERS TABS ===============*/}
     
