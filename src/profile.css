@@ -175,12 +175,12 @@ body.dark-mode {
 
 .profile__social-link {
   font-size: 1.25rem;
-  color: rgb(0, 162, 255);
+  color: rgb(255, 94, 0);
   transition: .3s;
 }
 
 .profile__social-link:hover {
-  color: orangered;
+  color: rgb(33, 72, 177);
 }
 
 .profile__info {
