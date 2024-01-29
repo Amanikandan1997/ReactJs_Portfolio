@@ -184,7 +184,7 @@ function Project() {
               <div className="projects__modal">
                 <div>
                   <span className="projects__subtitle">Design</span>
-                  <h3 className="projects__title">Sunfeast Sachin & Chandramuki card re 2023 Dsign</h3>
+                  <h3 className="projects__title">Sunfeast Sachin & Chandramuki card re Design</h3>
                   <a href="https://www.instagram.com/p/Cu9cYePNYX7/?igshid=NjIwNzIyMDk2Mg==" target="_blank" className="projects__button button button__small">
                     <i className="ri-link" />
                   </a>
@@ -196,7 +196,7 @@ function Project() {
               <div className="projects__modal">
                 <div>
                   <span className="projects__subtitle">Design</span>
-                  <h3 className="projects__title">Sunfeast Sachin & Chandramuki card re 2023 Dsign</h3>
+                  <h3 className="projects__title">Sunfeast Sachin & Chandramuki card re  Design</h3>
                   <a href="https://www.instagram.com/p/Cu9cYePNYX7/?igshid=NjIwNzIyMDk2Mg==" target="_blank" className="projects__button button button__small">
                     <i className="ri-link" />
                   </a>

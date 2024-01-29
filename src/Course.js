@@ -33,7 +33,7 @@ function Course() {
                     <i className="ri-checkbox-circle-line" />
                     <div>
                       <h3 className="skills__name">G.H.S.Unnamalaikadai</h3>
-                      <span className="skills__level">SSLC 2002-2012</span>
+                      <span className="skills__level">SSLC 2011-2012</span>
                     </div>
                   </div>
                   </div> 
