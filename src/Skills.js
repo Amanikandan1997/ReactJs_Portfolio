@@ -1,4 +1,16 @@
 import React from 'react'
+import html from "./assests/html.png"
+import css from "./assests/css.png"
+import github from "./assests/git.png"
+import js from"./assests/js.png"
+import bootstrap from "./assests/boot.png"
+import react from './assests/react1.png'
+import ps from './assests/ps.png'
+import ai from './assests/ai.png'
+import ae from './assests/ae.png'
+import vn from './assests/vn.png'
+import figma from './assests/figma.png'
+import flimora from './assests/flimora.png'
 
 function Skills() {
   return (
@@ -22,21 +34,21 @@ function Skills() {
               <div className="skills__box">
                 <div className="skills__group">
                   <div className="skills__data">
-                    <i className="ri-checkbox-circle-line" />
+                  <img src={html} width="40" height="30"/>
                     <div>
                       <h3 className="skills__name">HTML</h3>
                       <span className="skills__level">Advanced</span>
                     </div>
                   </div>
                   <div className="skills__data">
-                    <i className="ri-checkbox-circle-line" />
+                  <img src={css} width="40" height="30"/>
                     <div>
                       <h3 className="skills__name">CSS</h3>
                       <span className="skills__level">Advanced</span>
                     </div>
                   </div>
                   <div className="skills__data">
-                    <i className="ri-checkbox-circle-line" />
+                  <img src={js} width="40" height="30"/>
                     <div>
                       <h3 className="skills__name">JavaScript</h3>
                       <span className="skills__level">Intermediate</span>
@@ -45,21 +57,21 @@ function Skills() {
                 </div>
                 <div className="skills__group">
                   <div className="skills__data">
-                    <i className="ri-checkbox-circle-line" />
+                  <img src={react} width="40" height="30"/>
                     <div>
                       <h3 className="skills__name">React</h3>
                       <span className="skills__level">Intermediate</span>
                     </div>
                   </div>
                   <div className="skills__data">
-                    <i className="ri-checkbox-circle-line" />
+                  <img src={bootstrap} width="40" height="30"/>
                     <div>
                       <h3 className="skills__name">Bootstrap</h3>
                       <span className="skills__level">Intermediate</span>
                     </div>
                   </div>
                   <div className="skills__data">
-                    <i className="ri-checkbox-circle-line" />
+                  <img src={github} width="40" height="30"/>
                     <div>
                       <h3 className="skills__name">Git/Github</h3>
                       <span className="skills__level">Intermediate</span>
@@ -73,37 +85,37 @@ function Skills() {
               <div className="skills__box">
                 <div className="skills__group">
                   <div className="skills__data">
-                    <i className="ri-checkbox-circle-line" />
+                  <img src={ps} width="40" height="5"/>
                     <div>
-                      <h3 className="skills__name">Adobe Photoshop</h3>
+                      <h3 className="skills__name">Photoshop</h3>
                       <span className="skills__level">Basic</span>
                     </div>
                   </div>
                   <div className="skills__data">
-                    <i className="ri-checkbox-circle-line" />
+                  <img src={ai} width="40" />
                     <div>
-                      <h3 className="skills__name">Adobe illustartor</h3>
+                      <h3 className="skills__name">illustartor</h3>
                       <span className="skills__level">Basic</span>
                     </div>
                   </div>
                   <div className="skills__data">
-                    <i className="ri-checkbox-circle-line" />
+                  <img src={ae} width="40" />
                     <div>
-                      <h3 className="skills__name">After Effect</h3>
+                      <h3 className="skills__name">AfterEffect</h3>
                       <span className="skills__level">Basic</span>
                     </div>
                   </div>
                 </div>
                 <div className="skills__group">
                   <div className="skills__data">
-                    <i className="ri-checkbox-circle-line" />
+                  <img src={flimora} width="40" height="1"/>
                     <div>
-                      <h3 className="skills__name">Flimora 12</h3>
+                      <h3 className="skills__name">Flimora</h3>
                       <span className="skills__level">Basic</span>
                     </div>
                   </div>
                   <div className="skills__data">
-                    <i className="ri-checkbox-circle-line" />
+                  <img src={vn} width="40" height="30"/>
                     <div>
                       <h3 className="skills__name">VN editor</h3>
                       <span className="skills__level">Intermediate</span>
@@ -111,7 +123,7 @@ function Skills() {
                   </div>
                   <div className="skills__group">
                     <div className="skills__data">
-                      <i className="ri-checkbox-circle-line" />
+                    <img src={figma} width="40" height="30"/>
                       <div>
                         <h3 className="skills__name">Figma</h3>
                         <span className="skills__level">Basic</span>

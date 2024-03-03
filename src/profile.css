@@ -228,6 +228,7 @@ body.dark-mode {
   padding: 0.75rem 1.5rem;
   border-radius: .5rem;
   transition: .3s;
+  
   box-shadow: 0 8px 24px hsla(var(--hue), var(--sat), var(--lig), .25);
 }
 
@@ -250,7 +251,7 @@ body.dark-mode {
 }
 
 .button__gray:hover {
-  background-color:burlywood;
+  background-color: #fccc63 rgb( 252, 204, 99)
 }
 
 /*=============== FILTERS TABS===============*/
@@ -349,7 +350,11 @@ body.dark-mode {
   display: flex;
   justify-content: center;
   column-gap: 3rem;
-  background-color: rgb(216, 213, 213);
+  backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(255, 255, 255, 0.75);
+    border-radius: 12px;
+    border: 1px solid rgba(209, 213, 219, 0.3);
   padding: 2rem;
   margin-top: -1.5rem;
 }
@@ -395,6 +400,76 @@ body.dark-mode {
   background-color: var(--body-color);
 }
 
+
+/*=============== SKILLS ===============*/
+.skills__content1 {
+  row-gap: 3.5rem;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.skills__title1 {
+  font-size: var(--h3-font-size);
+  text-align: center;
+  margin-bottom: 2.5rem;
+  
+  /* margin-top: -3rem; */
+}
+
+.skills__box1 {
+  display: flex;
+  justify-content: center;
+ 
+  backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(255, 255, 255, 0.75);
+    border-radius: 12px;
+    border: 1px solid rgba(209, 213, 219, 0.3);
+  padding: 2rem;
+  margin-top: -1.5rem;
+}
+
+.skills__group1 {
+  display: grid;
+  align-content: center;
+  row-gap: 1rem;
+}
+
+.skills__data1 {
+  display: flex;
+  column-gap: .5rem;
+}
+
+.skills__data1 i  {
+  font-size: 1rem;
+  color: var(--first-color);
+}
+
+.skills__name1 {
+  font-size: var(--normal-font-size);
+  font-weight: 500;
+  line-height: 18px;
+}
+
+.skills__level1 {
+  font-size: var(--smaller-font-size);
+  color: #1a1919;
+}
+
+/* Hide and show projects & skills */
+.filters [data-content] {
+  display: none;
+}
+
+.filters__active[data-content] {
+  display: grid;
+}
+
+/* Activate button filter */
+.filter-tab-active {
+  background-color: var(--body-color);
+}
 /*=============== FOOTER ===============*/
 .footer__copy {
   display: block;

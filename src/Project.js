@@ -32,6 +32,13 @@ import sachin1 from "./assests/sachin.jpg"
 import sachin2 from "./assests/sachin 2.jpg"
 import book1 from "./assests/b1.jpg"
 import book2 from "./assests/b2.jpg"
+import QR from "./assests/QR.png"
+import Currency from "./assests/Currency.png"
+import manimart from "./assests/manimart.png"
+import weather from "./assests/weather.png"
+import porkalam from "./assests/por.jpeg"
+import porkalam1 from "./assests/por1.jpeg"
+import jewell from './assests/jewell.png'
 import Navbar from './Navbar'
 
 import  Calendar  from './assests/calendar.jpeg'
@@ -126,6 +133,67 @@ function Project() {
                   <span className="projects__subtitle">Web</span>
                   <h3 className="projects__title">DSR Construction website Using HTML,CSS,JS,Emailjs</h3>
                   <a href="http://dsrconstruction.net/" target="_blank" className="projects__button button button__small">
+                    <i className="ri-link" />
+                  </a>
+                </div>
+              </div>
+            </article>
+            <article className="projects__card">
+              <img src={weather} alt="" className="projects__img" />
+              <div className="projects__modal">
+                <div>
+                  <span className="projects__subtitle">Web</span>
+                  <h3 className="projects__title">Marthandam Weather Man-React JS</h3>
+                  <a href="https://amanikandan1997.github.io/Manikandan_uki_weatherManapp/" target="_blank" className="projects__button button button__small">
+                    <i className="ri-link" />
+                  </a>
+                </div>
+              </div>
+            </article>
+            
+            <article className="projects__card">
+              <img src={manimart} alt="" className="projects__img" />
+              <div className="projects__modal">
+                <div>
+                  <span className="projects__subtitle">Web</span>
+                  <h3 className="projects__title">manimart Amazon Clone-React JS</h3>
+                  <a href="https://amanikandan1997.github.io/mini-e-commerce/" target="_blank" className="projects__button button button__small">
+                    <i className="ri-link" />
+                  </a>
+                </div>
+              </div>
+            </article>
+            <article className="projects__card">
+              <img src={QR} alt="" className="projects__img" />
+              <div className="projects__modal">
+                <div>
+                  <span className="projects__subtitle">Web</span>
+                  <h3 className="projects__title">QR Code Generator React JS</h3>
+                  <a href="https://amanikandan1997.github.io/Qr-Code-Generate/" target="_blank" className="projects__button button button__small">
+                    <i className="ri-link" />
+                  </a>
+                </div>
+              </div>
+            </article>
+            <article className="projects__card">
+              <img src={Currency} alt="" className="projects__img" />
+              <div className="projects__modal">
+                <div>
+                  <span className="projects__subtitle">Web</span>
+                  <h3 className="projects__title">Currency Converter React JS</h3>
+                  <a href="https://amanikandan1997.github.io/Currency_Converter_Reactjs/" target="_blank" className="projects__button button button__small">
+                    <i className="ri-link" />
+                  </a>
+                </div>
+              </div>
+            </article>
+            <article className="projects__card">
+              <img src={jewell} alt="" className="projects__img" />
+              <div className="projects__modal">
+                <div>
+                  <span className="projects__subtitle">Web</span>
+                  <h3 className="projects__title">Jewellery Workshop html css Js website </h3>
+                  <a href="https://amanikandan1997.github.io/Jewellery_static/" target="_blank" className="projects__button button button__small">
                     <i className="ri-link" />
                   </a>
                 </div>
@@ -276,6 +344,31 @@ function Project() {
                 </div>
               </div>
             </article>
+            <article className="projects__card">
+              <img src={porkalam} alt="" className="projects__img" />
+              <div className="projects__modal">
+                <div>
+                  <span className="projects__subtitle">Design</span>
+                  <h3 className="projects__title">Porkalam Rap Song Poster Design</h3>
+                  <a href="https://www.instagram.com/p/C3o-QC2N1Ye/?igsh=d2JpOGE2bHdmMnZ3" target="_blank" className="projects__button button button__small">
+                    <i className="ri-link" />
+                  </a>
+                </div>
+              </div>
+            </article>
+            <article className="projects__card">
+              <img src={porkalam1} alt="" className="projects__img" />
+              <div className="projects__modal">
+                <div>
+                  <span className="projects__subtitle">Design</span>
+                  <h3 className="projects__title">Porkalam Lyric Video Editing</h3>
+                  <a href="https://youtu.be/C0HzkHOXgRs" target="_blank" className="projects__button button button__small">
+                    <i className="ri-link" />
+                  </a>
+                </div>
+              </div>
+            </article>
+            
             <article className="projects__card">
               <img src={aasai} alt="" className="projects__img" />
               <div className="projects__modal">

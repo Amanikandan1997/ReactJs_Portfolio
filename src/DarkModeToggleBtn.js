@@ -10,7 +10,7 @@ function DarkModeToggleBtn() {
     <div className='darkMode__btn'> <DarkModeToggle
     onChange={darkMode.toggle}
     checked={darkMode.value}
-    size={80}
+    size={90}
   /></div>
   )
 }

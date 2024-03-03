@@ -60,26 +60,26 @@ function Profile() {
         </div>
         <div className="profile__info grid">
           <div className="profile__info-group">
-            <h3 className="profile__info-number">1</h3>
+            <h3 className="profile__info-number">1+</h3>
             <p className="profile__info-description">
               Year of <br /> work
             </p>
           </div>
           <div className="profile__info-group">
-            <h3 className="profile__info-number">30</h3>
+            <h3 className="profile__info-number">30 +</h3>
             <p className="profile__info-description">
               Completed <br /> projects
             </p>
           </div>
           <div className="profile__info-group">
-            <h3 className="profile__info-number">17</h3>
+            <h3 className="profile__info-number">17 +</h3>
             <p className="profile__info-description" satisfied > Customers</p>
           </div>
         </div>
         <div className="profile__buttons">
           {/* Insert your CV */}
           <a download href={manicv} className="button">
-            Download CV <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><g fill="none" stroke="#ffffff" stroke-linecap="round" stroke-width="2"><path stroke-dasharray="2 4" stroke-dashoffset="6" d="M12 3C16.9706 3 21 7.02944 21 12C21 16.9706 16.9706 21 12 21"><animate attributeName="stroke-dashoffset" dur="0.6s" repeatCount="indefinite" values="6;0"/></path><path stroke-dasharray="30" stroke-dashoffset="30" d="M12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3"><animate fill="freeze" attributeName="stroke-dashoffset" begin="0.1s" dur="0.3s" values="30;0"/></path><path stroke-dasharray="10" stroke-dashoffset="10" d="M12 8v7.5"><animate fill="freeze" attributeName="stroke-dashoffset" begin="0.5s" dur="0.2s" values="10;0"/></path><path stroke-dasharray="6" stroke-dashoffset="6" d="M12 15.5l3.5 -3.5M12 15.5l-3.5 -3.5"><animate fill="freeze" attributeName="stroke-dashoffset" begin="0.7s" dur="0.2s" values="6;0"/></path></g></svg></a>
+            Download CV  {/*<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><g fill="none" stroke="#ffffff" stroke-linecap="round" stroke-width="2"><path stroke-dasharray="2 4" stroke-dashoffset="6" d="M12 3C16.9706 3 21 7.02944 21 12C21 16.9706 16.9706 21 12 21"><animate attributeName="stroke-dashoffset" dur="0.6s" repeatCount="indefinite" values="6;0"/></path><path stroke-dasharray="30" stroke-dashoffset="30" d="M12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3"><animate fill="freeze" attributeName="stroke-dashoffset" begin="0.1s" dur="0.3s" values="30;0"/></path><path stroke-dasharray="10" stroke-dashoffset="10" d="M12 8v7.5"><animate fill="freeze" attributeName="stroke-dashoffset" begin="0.5s" dur="0.2s" values="10;0"/></path><path stroke-dasharray="6" stroke-dashoffset="6" d="M12 15.5l3.5 -3.5M12 15.5l-3.5 -3.5"><animate fill="freeze" attributeName="stroke-dashoffset" begin="0.7s" dur="0.2s" values="6;0"/></path></g></svg>*/}</a> 
           <a  className="button" href="mailto:manikandanarunachalam913@gmail.com">
           contact<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256"><g fill="none"><rect width="256" height="256" fill="#F4F2ED" rx="60"/><path fill="#4285F4" d="M41.636 203.039h31.818v-77.273L28 91.676v97.727c0 7.545 6.114 13.636 13.636 13.636"/><path fill="#34A853" d="M182.545 203.039h31.819c7.545 0 13.636-6.114 13.636-13.636V91.675l-45.455 34.091"/><path fill="#FBBC04" d="M182.545 66.675v59.091L228 91.676V73.492c0-16.863-19.25-26.477-32.727-16.363"/><path fill="#EA4335" d="M73.455 125.766v-59.09L128 107.583l54.545-40.909v59.091L128 166.675"/><path fill="#C5221F" d="M28 73.493v18.182l45.454 34.091v-59.09L60.727 57.13C47.227 47.016 28 56.63 28 73.493"/></g></svg>
          
@@ -113,7 +113,7 @@ function Profile() {
     {/*=============== FOOTER ===============*/}
     <footer className="footer container">
       <span className="footer__copy">
-        © <a href="https://github.com/Amanikandan1997">Manikandan Arunachalam @ {new Date().getFullYear()} </a> <br /> All rigths reserved.
+        © <a href="https://github.com/Amanikandan1997">Manikandan Arunachalam @ 2022 - {new Date().getFullYear()} </a> <br /> All rigths reserved.
       </span>
     </footer>
     <ScrollToTop smooth top={1000} />

@@ -1,5 +1,5 @@
 import React from 'react'
-
+import kite from './assests/lll.png'
 function Course() {
   return (
     <>
@@ -58,6 +58,21 @@ function Course() {
                       <span className="skills__level">JUN-2014-APR-2016</span>
                     </div>
                   </div>
+                  </div>
+              </div>
+            </div>
+            <div className="skills__area1">
+              <h3 className="skills__title1">Experience</h3>
+              <div className="skills__box1">
+                <div className="skills__group1">
+                  <div className="skills__data1">
+                    <img src={kite} width="40" height="30"/>
+                    <div>
+                      <h3 className="skills__name1">KiteCareer</h3>
+                  <span className="skills__level1">DEC-2022-Present</span>
+                    </div>
+                  </div>
+                  
                   </div>
               </div>
             </div>
