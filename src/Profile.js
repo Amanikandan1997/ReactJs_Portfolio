@@ -8,6 +8,8 @@ import DarkModeToggleBtn from './DarkModeToggleBtn'
 import ScrollToTop from "react-scroll-to-top";
 import Course from "./Course"
 import { Link } from "@react-email/link";
+import Chat from './Chat'
+
 
 function Profile() {
  
@@ -98,7 +100,9 @@ function Profile() {
         </div>
       </div>
     </header>
+  
     {/*=============== MAIN ===============*/}
+   <Chat/>
    <Skills/>
    <Course/>
     <Project/> 
@@ -116,7 +120,7 @@ function Profile() {
         © <a href="https://github.com/Amanikandan1997">Manikandan Arunachalam @ 2022 - {new Date().getFullYear()} </a> <br /> All rigths reserved.
       </span>
     </footer>
-    <ScrollToTop smooth top={1000} />
+    <ScrollToTop   smooth top={1000} />
     {/*=============== SCROLLREVEAL ===============*/}
   
     {/*=============== MAIN JS ===============*/}
