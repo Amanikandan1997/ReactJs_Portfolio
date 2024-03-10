@@ -100,7 +100,7 @@ function Profile() {
         </div>
       </div>
     </header>
-  
+    <ScrollToTop   smooth top={1000} />
     {/*=============== MAIN ===============*/}
    <Chat/>
    <Skills/>

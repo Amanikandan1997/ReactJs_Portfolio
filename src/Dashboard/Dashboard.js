@@ -1,4 +1,5 @@
 import React from 'react';
+import Main from './main'
 import { UploadOutlined, UserOutlined, VideoCameraOutlined } from '@ant-design/icons';
 import { Layout, Menu, theme } from 'antd';
 const { Header, Content, Footer, Sider } = Layout;
@@ -56,7 +57,7 @@ function Dashboard() {
             background: colorBgContainer,
           }}
         >
-          content
+          <Main/>
         </div>
       </Content>
       <Footer
