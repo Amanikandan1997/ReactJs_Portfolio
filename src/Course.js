@@ -69,7 +69,7 @@ function Course() {
                     <img src={kite} width="40" height="30"/>
                     <div>
                       <h3 className="skills__name1">KiteCareer</h3>
-                  <span className="skills__level1">DEC-2022-Present</span>
+                  <span className="skills__level1">JUN-2022-Present</span>
                     </div>
                   </div>
                   

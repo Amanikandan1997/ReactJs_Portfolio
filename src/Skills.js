@@ -64,9 +64,9 @@ function Skills() {
                     </div>
                   </div>
                   <div className="skills__data">
-                  <img src={bootstrap} width="40" height="30"/>
+                  <img src={react} width="40" height="30"/>
                     <div>
-                      <h3 className="skills__name">Bootstrap</h3>
+                      <h2 className="skills__name" style={{paddingRight:"30px"}}>ReactNative</h2>
                       <span className="skills__level">Intermediate</span>
                     </div>
                   </div>
@@ -115,9 +115,9 @@ function Skills() {
                     </div>
                   </div>
                   <div className="skills__data">
-                  <img src={vn} width="40" height="30"/>
+                  <img src={vn} width="40" height="20"/>
                     <div>
-                      <h3 className="skills__name">VN editor</h3>
+                      <h3 className="skills__name"style={{paddingRight:"30px"}}>VNeditor</h3>
                       <span className="skills__level">Intermediate</span>
                     </div>
                   </div>

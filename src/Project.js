@@ -39,6 +39,9 @@ import weather from "./assests/weather.png"
 import porkalam from "./assests/por.jpeg"
 import porkalam1 from "./assests/por1.jpeg"
 import jewell from './assests/jewell.png'
+import manimart1 from './assests/mobile app.jpg'
+import md4now from './assests/md4now.jpg'
+import chatai from './assests/ai chatbot.jpg'
 import Navbar from './Navbar'
 
 import  Calendar  from './assests/calendar.jpeg'
@@ -158,6 +161,43 @@ function Project() {
                   <span className="projects__subtitle">Web</span>
                   <h3 className="projects__title">manimart Amazon Clone-React JS</h3>
                   <a href="https://amanikandan1997.github.io/mini-e-commerce/" target="_blank" className="projects__button button button__small">
+                    <i className="ri-link" />
+                  </a>
+                </div>
+              </div>
+            </article>
+            <article className="projects__card">
+              <img src={chatai} alt="" className="projects__img" />
+              <div className="projects__modal">
+                <div>
+                  <span className="projects__subtitle">Mobile App</span>
+                  <h3 className="projects__title">IdeaMani Ai ChatBot -React Native </h3>
+                  <a href="https://www.linkedin.com/posts/manikandan-arunachalam-2b0803262_reactnative-hybridapps-mobiledevelopment-activity-7204134459128840192-3ti3?utm_source=share&utm_medium=member_desktop" target="_blank" className="projects__button button button__small">
+                    <i className="ri-link" />
+                  </a>
+                </div>
+              </div>
+            </article>
+            <article className="projects__card">
+              <img src={manimart1} alt="" className="projects__img" />
+              <div className="projects__modal">
+                <div>
+                  <span className="projects__subtitle">Mobile Application</span>
+                  <h3 className="projects__title">manimart Amazon Clone-React Native</h3>
+                  <a href="https://github.com/Amanikandan1997/manimart-ReactNative" target="_blank" className="projects__button button button__small">
+                    <i className="ri-link" />
+                  </a>
+                </div>
+              </div>
+            </article>
+            
+            <article className="projects__card">
+              <img src={md4now} alt="" className="projects__img" />
+              <div className="projects__modal">
+                <div>
+                  <span className="projects__subtitle">Mobile Application</span>
+                  <h3 className="projects__title">md4now doctor appointment app</h3>
+                  <a href="https://github.com/Amanikandan1997/React_Native_PatientManagement_UI" target="_blank" className="projects__button button button__small">
                     <i className="ri-link" />
                   </a>
                 </div>
