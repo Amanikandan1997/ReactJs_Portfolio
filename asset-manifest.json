@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.8ceb3324.css",
-    "main.js": "./static/js/main.6f84a105.js",
+    "main.js": "./static/js/main.06480487.js",
     "static/media/b2.jpg": "./static/media/b2.4dedd80d2fd3a115d4d7.jpg",
     "static/media/b1.jpg": "./static/media/b1.d721879a4e58f83d8d84.jpg",
     "static/media/kit.jpg": "./static/media/kit.805d26cfbce15fd96a5a.jpg",
@@ -46,7 +46,7 @@
     "static/media/ecommerce.png": "./static/media/ecommerce.5fcd2078bc3440e88a77.png",
     "static/media/vj.jpeg": "./static/media/vj.04671f9a80f7bc3a6e1e.jpeg",
     "static/media/flimora.png": "./static/media/flimora.14ff7e45263d542196f4.png",
-    "static/media/mani cv.pdf": "./static/media/mani cv.5b6953dd82755cffcfb5.pdf",
+    "static/media/mani cv.pdf": "./static/media/mani cv.c079ae21f32fc87676f1.pdf",
     "static/media/kite j.png": "./static/media/kite j.a37003a56be0ebde19e1.png",
     "static/media/jobdas.png": "./static/media/jobdas.44da84de891a50dd81fa.png",
     "static/media/calendar.jpeg": "./static/media/calendar.511d54daecf3e615da91.jpeg",
@@ -62,10 +62,10 @@
     "static/media/css.png": "./static/media/css.cb9c848d75f30818e73c.png",
     "index.html": "./index.html",
     "main.8ceb3324.css.map": "./static/css/main.8ceb3324.css.map",
-    "main.6f84a105.js.map": "./static/js/main.6f84a105.js.map"
+    "main.06480487.js.map": "./static/js/main.06480487.js.map"
   },
   "entrypoints": [
     "static/css/main.8ceb3324.css",
-    "static/js/main.6f84a105.js"
+    "static/js/main.06480487.js"
   ]
 }
