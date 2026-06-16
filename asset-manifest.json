@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.31be8740.css",
-    "main.js": "./static/js/main.d13a5016.js",
+    "main.js": "./static/js/main.f687392f.js",
     "static/media/b2.jpg": "./static/media/b2.4dedd80d2fd3a115d4d7.jpg",
     "static/media/b1.jpg": "./static/media/b1.d721879a4e58f83d8d84.jpg",
     "static/media/kit.jpg": "./static/media/kit.805d26cfbce15fd96a5a.jpg",
@@ -28,6 +28,7 @@
     "static/media/profile2.png": "./static/media/profile2.7781fe5da19e91c42ed5.png",
     "static/media/KITE BROUCHER.jpg": "./static/media/KITE BROUCHER.6826d90dbf5dde15fa0d.jpg",
     "static/media/weather.png": "./static/media/weather.f35790bb86a18f0dfc6d.png",
+    "static/media/ccm.png": "./static/media/ccm.49cd832a12d577971cc2.png",
     "static/media/project2.jpg": "./static/media/project2.9c8557a551fd55f5daa4.jpg",
     "static/media/kbm.png": "./static/media/kbm.0638f74ff4c0570fc41e.png",
     "static/media/Currency.png": "./static/media/Currency.858c30262db3117ed3b9.png",
@@ -73,13 +74,12 @@
     "static/media/git.png": "./static/media/git.c9a8f519989d3a9af901.png",
     "static/media/ps.png": "./static/media/ps.8105936b78a1dbe4cdc0.png",
     "static/media/css.png": "./static/media/css.cb9c848d75f30818e73c.png",
-    "static/media/v4uit.jpg": "./static/media/v4uit.2e11d526972f48b6c2da.jpg",
     "index.html": "./index.html",
     "main.31be8740.css.map": "./static/css/main.31be8740.css.map",
-    "main.d13a5016.js.map": "./static/js/main.d13a5016.js.map"
+    "main.f687392f.js.map": "./static/js/main.f687392f.js.map"
   },
   "entrypoints": [
     "static/css/main.31be8740.css",
-    "static/js/main.d13a5016.js"
+    "static/js/main.f687392f.js"
   ]
 }
