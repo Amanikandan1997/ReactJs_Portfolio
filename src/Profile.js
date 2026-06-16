@@ -7,7 +7,7 @@ import manicv from "./assests/assets/pdf/mani cv.pdf"
 import DarkModeToggleBtn from './DarkModeToggleBtn'
 import ScrollToTop from "react-scroll-to-top";
 import Course from "./Course"
-import { Link } from "@react-email/link";
+// import { Link } from "@react-email/link";
 import Chat from './Chat'
 
 
@@ -62,7 +62,7 @@ function Profile() {
         </div>
         <div className="profile__info grid">
           <div className="profile__info-group">
-            <h3 className="profile__info-number">4+</h3>
+            <h3 className="profile__info-number">3+</h3>
             <p className="profile__info-description">
               Year of <br /> work
             </p>

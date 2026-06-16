@@ -1,6 +1,6 @@
 import React from 'react'
 import kite from './assests/lll.png'
-import v4u from './assests/v4uit.jpg'
+import ccm from './assests/ccm.png'
 
 import ramcons from './assests/ramcons.png'
 function Course() {
@@ -76,7 +76,7 @@ function Course() {
               <div className="skills__box1">
                 <div className="skills__group1">
                   <div className="skills__data1">
-                    <img src={kite} width="40" height="30"/>
+                    <img src={kite} alt='kiteCareer' width="40" height="30"/>
                     <div>
                       <h3 className="skills__name1">Frontend Developer — KiteCareer 
 </h3>
@@ -92,7 +92,7 @@ function Course() {
               <div className="skills__box1">
                 <div className="skills__group1">
                   <div className="skills__data1">
-                    <img src={ramcons} width="40" height="30"/>
+                    <img src={ramcons} alt='ramcons ' width="40" height="30"/>
                     <div>
                       <h3 className="skills__name1">IT Executive — Ramcons 
 </h3>
@@ -108,9 +108,9 @@ function Course() {
               <div className="skills__box1">
                 <div className="skills__group1">
                   <div className="skills__data1">
-                    <img src={v4u}alt='v4uitsolutions' width="40" height="30"/>
+                    <img src={ccm}alt='CapeComorin Media Pvt Ltd' width="40" height="30"/>
                     <div>
-                      <h3 className="skills__name1">Software Developer —  V4U IT Solutions 
+                      <h3 className="skills__name1">Software Developer &  Designer —  CapeComorin Media Pvt Ltd
 </h3>
                   <span className="skills__level1">JUN-2025-Present</span>
                     </div>
