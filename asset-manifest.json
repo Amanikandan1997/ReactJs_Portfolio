@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.31be8740.css",
-    "main.js": "./static/js/main.f687392f.js",
+    "main.js": "./static/js/main.c1751124.js",
     "static/media/b2.jpg": "./static/media/b2.4dedd80d2fd3a115d4d7.jpg",
     "static/media/b1.jpg": "./static/media/b1.d721879a4e58f83d8d84.jpg",
     "static/media/kit.jpg": "./static/media/kit.805d26cfbce15fd96a5a.jpg",
@@ -43,10 +43,10 @@
     "static/media/dsr.png": "./static/media/dsr.d486088ebf8c44eaaa29.png",
     "static/media/por.jpeg": "./static/media/por.a9ca0917c9e6d4a5d672.jpeg",
     "static/media/por1.jpeg": "./static/media/por1.9795130fc634b1c91b67.jpeg",
+    "static/media/mani cv.pdf": "./static/media/mani cv.e4944441c888a880b78d.pdf",
     "static/media/kk.jpeg": "./static/media/kk.0c2fcc699f360973f70b.jpeg",
     "static/media/perfil.png": "./static/media/perfil.cf3c574335dd6f9dd291.png",
     "static/media/ecommerce.png": "./static/media/ecommerce.5fcd2078bc3440e88a77.png",
-    "static/media/mani cv.pdf": "./static/media/mani cv.32fc8775171ebb0c5720.pdf",
     "static/media/vj.jpeg": "./static/media/vj.04671f9a80f7bc3a6e1e.jpeg",
     "static/media/flimora.png": "./static/media/flimora.14ff7e45263d542196f4.png",
     "static/media/90smemory.JPG": "./static/media/90smemory.98c0f06f888014c9b4c1.JPG",
@@ -76,10 +76,10 @@
     "static/media/css.png": "./static/media/css.cb9c848d75f30818e73c.png",
     "index.html": "./index.html",
     "main.31be8740.css.map": "./static/css/main.31be8740.css.map",
-    "main.f687392f.js.map": "./static/js/main.f687392f.js.map"
+    "main.c1751124.js.map": "./static/js/main.c1751124.js.map"
   },
   "entrypoints": [
     "static/css/main.31be8740.css",
-    "static/js/main.f687392f.js"
+    "static/js/main.c1751124.js"
   ]
 }
